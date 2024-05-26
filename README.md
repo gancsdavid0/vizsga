@@ -1,6 +1,7 @@
 ## vizsga
 
 ## PHP
+composer create-project laravel/laravel:^10.0 example-app
 laravel new example-app // létrehozza a laravel projektet
 
 php artisan serve //elindítja a webszervert
